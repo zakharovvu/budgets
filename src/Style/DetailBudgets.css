@@ -1,0 +1,14 @@
+button {
+  padding: 5px;
+  border: none;
+  font: inherit;
+  color: inherit;
+  background-color: transparent;
+  border: 1px solid rgb(161, 159, 159);
+  
+}
+button:hover {
+  cursor: pointer;
+  background: rgb(34, 48, 250);
+  color: black;
+}

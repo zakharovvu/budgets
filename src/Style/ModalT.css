@@ -1,0 +1,41 @@
+.modalt {
+  position: absolute;
+  background: white;
+  width: 98%;
+  right: 1%;
+  height: 95vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.modalt_content {
+ border: 1px solid black;
+ position: relative;
+}
+.input {
+  margin: 20px;
+  
+}
+label {
+  display: flex;
+  justify-content: space-between;
+  
+  margin: 20px;
+}
+input {
+  margin-left: 8px;
+  margin-right: 40px;
+}
+.modalt_content select {
+  top: 62px;
+  left: 284px;
+  position: absolute;
+}
+.modalt_button {
+  display: flex;
+  margin: 10px;
+  justify-content: space-around;
+}
+.error {
+  border: 1px solid red;
+}

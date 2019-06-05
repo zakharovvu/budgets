@@ -1,0 +1,43 @@
+body {
+  position: relative;
+  background: rgb(229, 244, 248);
+  font-family: 'Electrolize', sans-serif;
+}
+.Budgets {
+  margin: 10px 40px;
+}
+table {
+  text-align: center;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+td, th {
+  padding: 5px;
+  color: rgb(5, 105, 75);
+}
+a {
+  text-decoration: none;
+  color: rgb(35, 49, 248);
+}
+nav {
+  padding: 10px;
+  margin-bottom: 20px;
+}
+nav a {
+  padding: 5px;
+  margin-right: 5px;
+}
+nav a:hover {
+  background: rgb(163, 171, 243);
+}
+input {
+  outline: none;
+  border: 1px solid rgb(87, 86, 86);
+}
+.title li {
+  text-align: justify;
+}
+
+
+
